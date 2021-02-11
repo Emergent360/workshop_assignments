@@ -2,12 +2,12 @@
 Student Name | User | Console Login | Lab Instructions
 ------------ | ---------------| ---------- | -------------
  |Ahmed| user1 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
- |Ann S.| user2 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+ |Ann| user2 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Brian| user3 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
- |Ed S|user4 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+ |Ed|user4 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |George| user5 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |"guest"| user6 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
- |Jose L G.| user7 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+ |Jose| user7 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Kellyn| user8 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Ken| user9 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Kyle| user10 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
