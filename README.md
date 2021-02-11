@@ -1,7 +1,7 @@
 # workshop_assignments
 Student Name | User | Console Login | Lab Instructions
 ------------ | ---------------| ---------- | -------------
- |Ahmed| user1 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
+ |Ahmad| user1 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Ann| user2 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Brian| user3 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
  |Ed|user4 | https://console-openshift-console.apps.openshift4.lab-emergent360.com/ | http://labs-emergent360.com/workshops/openshift_4_101/
