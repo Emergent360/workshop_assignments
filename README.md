@@ -1,4 +1,12 @@
-# workshop_assignments
+# Workshop Assignments
+## Lab Exercises: http://labs-emergent360.com/workshops/rhel_8/
+### Configure Workshop
+- Student ID: see list below
+- Domain: lab-emergent360.com
+- Workshop: dia-rhel8
+
+## Login Username: ec2-user
+
 |Student Name |Student ID
 |------------ | ---------------
 ||0
