@@ -10,56 +10,30 @@
 |Student Name |Student ID
 |------------ | ---------------
 |Emergent Brian|0
-|Al English| 	1|
-|Alex Harvey| 	2|
-|Anquannette Skyler|	3|
-|Brandon Walston|	4|
-|Christopher Goodwin|	5|
-Chris Reguerin	6
-Dan Mather	7
-Dawne Shinno	8
-Derrik Bomagat	9
-Frederick Bowser	10
-Hans Kwazneski	11
-Ilya Ellis	12
-Jonathan Abolins	13
-Jonathan Queen	14
-Mary Crowell 	15
-Matthew Kadoyama	16
-Omar Popal 	17
-Robert Vannatta	18
-Russell Mukal	19
-Ruth Lampkin	20
-Shawn Sanders	21
-Tanya Fitzgerald	22
-Timothy Raburn 	23
-Wendy Rusho	24
-![image](https://user-images.githubusercontent.com/66794235/110506524-29086880-80cd-11eb-971f-55669f510dbd.png)
-
-||1
-||2
-||3
-||4
-||5
-||6
-||7
-||8
-||9
-||10
-||11
-||12
-||13
-||14
-||15
-||16
-||17
-||18
-||19
-||20
-||21
-||22
-||23
-||24
+|	Al English 	|	1	|
+|	Alex Harvey 	|	2	|
+|	Anquannette Skyler	|	3	|
+|	Brandon Walston	|	4	|
+|	Christopher Goodwin	|	5	|
+|	Chris Reguerin	|	6	|
+|	Dan Mather	|	7	|
+|	Dawne Shinno	|	8	|
+|	Derrik Bomagat	|	9	|
+|	Frederick Bowser	|	10	|
+|	Hans Kwazneski	|	11	|
+|	Ilya Ellis	|	12	|
+|	Jonathan Abolins	|	13	|
+|	Jonathan Queen	|	14	|
+|	Mary Crowell 	|	15	|
+|	Matthew Kadoyama	|	16	|
+|	Omar Popal 	|	17	|
+|	Robert Vannatta	|	18	|
+|	Russell Mukal	|	19	|
+|	Ruth Lampkin	|	20	|
+|	Shawn Sanders	|	21	|
+|	Tanya Fitzgerald	|	22	|
+|	Timothy Raburn 	|	23	|
+|	Wendy Rusho	|	24	|
 ||25
 ||26
 ||27
