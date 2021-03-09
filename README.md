@@ -10,30 +10,30 @@
 |Student Name |Student ID
 |------------ | ---------------
 |Emergent Brian|0
-|	Al English 	|	1	|
-|	Alex Harvey 	|	2	|
-|	Anquannette Skyler	|	3	|
-|	Brandon Walston	|	4	|
-|	Christopher Goodwin	|	5	|
-|	Chris Reguerin	|	6	|
-|	Dan Mather	|	7	|
-|	Dawne Shinno	|	8	|
-|	Derrik Bomagat	|	9	|
-|	Frederick Bowser	|	10	|
-|	Hans Kwazneski	|	11	|
-|	Ilya Ellis	|	12	|
-|	Jonathan Abolins	|	13	|
-|	Jonathan Queen	|	14	|
-|	Mary Crowell 	|	15	|
-|	Matthew Kadoyama	|	16	|
-|	Omar Popal 	|	17	|
-|	Robert Vannatta	|	18	|
-|	Russell Mukal	|	19	|
-|	Ruth Lampkin	|	20	|
-|	Shawn Sanders	|	21	|
-|	Tanya Fitzgerald	|	22	|
-|	Timothy Raburn 	|	23	|
-|	Wendy Rusho	|	24	|
+|	Al E 	|	1	|
+|	Alex H 	|	2	|
+|	Anquannette S	|	3	|
+|	Brandon W	|	4	|
+|	Christopher G	|	5	|
+|	Chris R	|	6	|
+|	Dan M	|	7	|
+|	Dawne S	|	8	|
+|	Derrik B	|	9	|
+|	Frederick B	|	10	|
+|	Hans K	|	11	|
+|	Ilya E	|	12	|
+|	Jonathan A	|	13	|
+|	Jonathan Q	|	14	|
+|	Mary C 	|	15	|
+|	Matthew K	|	16	|
+|	Omar P 	|	17	|
+|	Robert V	|	18	|
+|	Russell M	|	19	|
+|	Ruth L	|	20	|
+|	Shawn S	|	21	|
+|	Tanya F	|	22	|
+|	Timothy R 	|	23	|
+|	Wendy R	|	24	|
 ||25
 ||26
 ||27
