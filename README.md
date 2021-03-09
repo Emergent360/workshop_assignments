@@ -10,11 +10,11 @@
 |Student Name |Student ID
 |------------ | ---------------
 |Emergent Brian|0
-Al English 	1
-Alex Harvey 	2
-Anquannette Skyler	3
-Brandon Walston	4
-Christopher Goodwin	5
+|Al English| 	1|
+|Alex Harvey| 	2|
+|Anquannette Skyler|	3|
+|Brandon Walston|	4|
+|Christopher Goodwin|	5|
 Chris Reguerin	6
 Dan Mather	7
 Dawne Shinno	8
