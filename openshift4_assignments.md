@@ -11,32 +11,32 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-| Alice Yang	|	user1	|
-|	Ben Beishline	|	user2	|
-|	Benjamin Harrington	|	user3	|
-|	Dan Snyder	|	user4	|
+| Alice Y	|	user1	|
+|	Ben B	|	user2	|
+|	Benjamin H	|	user3	|
+|	Dan S	|	user4	|
 |	Egor M		|	user5	|
 |	George	|	user6	|
-|	Gerald Ford |	user7	|
-|	Greg Tsudama	|	user8	|
-|	Hilda Yang	|	user9	|
-|	Jay Shideler	|	user10	|
-|	Michael Shumway	|	user11	|
-|	Mohammed Faruk |	user12	|
-|	Patri Jalbe		|	user13	|
-|	Phil Tung 	|	user14	|
-|	Steven Zhou	|	user15	|
-|	Yayoi McWilliams	|	user16	|
-|	Brian S	|	user17	|
-|	Jason M	|	user18	|
-|	Kenny M	|	user19	|
-|	David P	|	user20	|
-|	Heather H	|	user21	|
+|	Gerald F |	user7	|
+|	Greg T	|	user8	|
+|	Hilda Y	|	user9	|
+|	Jay S	|	user10	|
+|	Michael S	|	user11	|
+|	Mohammed F |	user12	|
+|	Patri J		|	user13	|
+|	Phil T 	|	user14	|
+|	Steven Z	|	user15	|
+|	Yayoi M	|	user16	|
+|	Matt M|	user17	|
+|	Blank	|	user18	|
+|	Blank|	user19	|
+|	Blank	|	user20	|
+|	Blank	|	user21	|
 |	Blank	|	user22	|
-|	Shan	G	|	user23	|
-|	Sharief	M	|	user24	|
-|	Terence	C	|	user25	|
-|	Tim	K	|	user26	|
-|	Timothy	H	|	user27	|
+|	Blank |	user23	|
+|	Blank	|	user24	|
+|	Blank	|	user25	|
+|	Emergent Jason |	user26	|
+|	Emergent Kenny |	user27	|
 |	Emergent Brian		|	user28	|
 
