@@ -11,32 +11,37 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-| Alice Y	|	user1	|
-|	Ben B	|	user2	|
-|	Benjamin H	|	user3	|
-|	Dan S	|	user4	|
-|	Egor M		|	user5	|
-|	George	|	user6	|
-|	Gerald F |	user7	|
-|	Greg T	|	user8	|
-|	Hilda Y	|	user9	|
-|	Jay S	|	user10	|
-|	Michael S	|	user11	|
-|	Mohammed F |	user12	|
-|	Patri J		|	user13	|
-|	Phil T 	|	user14	|
-|	Steven Z	|	user15	|
-|	Yayoi M	|	user16	|
-|	Matt M|	user17	|
-|	Blank	|	user18	|
-|	Blank|	user19	|
-|	Blank	|	user20	|
-|	Blank	|	user21	|
-|	Blank	|	user22	|
-|	Blank |	user23	|
-|	Blank	|	user24	|
-|	Blank	|	user25	|
-|	Emergent Jason |	user26	|
-|	Emergent Kenny |	user27	|
+|	Alice	Y	|	user1	|
+|	Anthony	S	|	user2	|
+|	Ben	B	|	user3	|
+|	Benjamin	H	|	user4	|
+|	Dan	S	|	user5	|
+|	Egor	M	|	user6	|
+|	Egor	M	|	user7	|
+|	George	F	|	user8	|
+|	Gerald	F	|	user9	|
+|	Greg	T	|	user10	|
+|	Hilda	Y	|	user11	|
+|	Jacqueline	W	|	user12	|
+|	Jared	W	|	user13	|
+|	Mark	F	|	user14	|
+|	Matt	M	|	user15	|
+|	Meagan	G	|	user16	|
+|	Michael	W	|	user17	|
+|	Michael	S	|	user18	|
+|	Michael	S	|	user19	|
+|	Mohammed	F	|	user20	|
+|	Patrick	J	|	user21	|
+|	Penny	P	|	user22	|
+|	Phil	T	|	user23	|
+|	Randy	S	|	user24	|
+|	Scott	S	|	user25	|
+|	Stacey	M	|	user26	|
+|	Steven	Z	|	user27	|
+|	Vijay	D	|	user28	|
+|	Wayne	T	|	user29	|
+|	Willard	D	|	user30	|
+|	Wisdom	E	|	user31	|
+|	Yayoi	M	|	user32	|
 |	Emergent Brian		|	user28	|
 
