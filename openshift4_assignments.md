@@ -11,37 +11,32 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-|	Alice	Y	|	user1	|
-|	Anthony	S	|	user2	|
-|	Ben	B	|	user3	|
-|	Benjamin	H	|	user4	|
-|	Dan	S	|	user5	|
-|	Egor	M	|	user6	|
-|	Egor	M	|	user7	|
-|	George	F	|	user8	|
-|	Gerald	F	|	user9	|
-|	Greg	T	|	user10	|
-|	Hilda	Y	|	user11	|
-|	Jacqueline	W	|	user12	|
-|	Jared	W	|	user13	|
-|	Mark	F	|	user14	|
-|	Matt	M	|	user15	|
-|	Meagan	G	|	user16	|
-|	Michael	W	|	user17	|
-|	Michael	S	|	user18	|
-|	Michael	S	|	user19	|
-|	Mohammed	F	|	user20	|
-|	Patrick	J	|	user21	|
-|	Penny	P	|	user22	|
-|	Phil	T	|	user23	|
-|	Randy	S	|	user24	|
-|	Scott	S	|	user25	|
-|	Stacey	M	|	user26	|
-|	Steven	Z	|	user27	|
-|	Vijay	D	|	user28	|
-|	Wayne	T	|	user29	|
-|	Willard	D	|	user30	|
-|	Wisdom	E	|	user31	|
-|	Yayoi	M	|	user32	|
-|	Emergent Brian		|	user33	|
+| Alice Yang	|	user1	|
+|	Ben Beishline	|	user2	|
+|	Benjamin Harrington	|	user3	|
+|	Dan Snyder	|	user4	|
+|	Egor M		|	user5	|
+|	George	|	user6	|
+|	Gerald Ford |	user7	|
+|	Greg Tsudama	|	user8	|
+|	Hilda Yang	|	user9	|
+|	Jay Shideler	|	user10	|
+|	Michael Shumway	|	user11	|
+|	Mohammed Faruk |	user12	|
+|	Patri Jalbe		|	user13	|
+|	Phil Tung 	|	user14	|
+|	Steven Zhou	|	user15	|
+|	Yayoi McWilliams	|	user16	|
+|	Brian S	|	user17	|
+|	Jason M	|	user18	|
+|	Kenny M	|	user19	|
+|	David P	|	user20	|
+|	Heather H	|	user21	|
+|	Blank	|	user22	|
+|	Shan	G	|	user23	|
+|	Sharief	M	|	user24	|
+|	Terence	C	|	user25	|
+|	Tim	K	|	user26	|
+|	Timothy	H	|	user27	|
+|	Emergent Brian		|	user28	|
 
