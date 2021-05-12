@@ -15,7 +15,7 @@
 |	Kyle H	|	user2	|
 |	M Sreenivasan	|	user3	|
 |	Doug W	|	user4	|
-|	Srinivas C	|	user5 5	|
+|	Srinivas C	|	user5 |
 |	Vinnie C	|	user6	|
 |	David Cl	|	user7	|
 |	Aaron Cornwell	|	user8	|
