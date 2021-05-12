@@ -18,7 +18,7 @@
 |	Srinivas C	|	user5 |
 |	Vinnie C	|	user6	|
 |	David Cl	|	user7	|
-|	Aaron Cornwell	|	user8	|
+|	Aaron C	|	user8	|
 |	Preston D	|	user9	|
 |	Jason E	|	user10	|
 |	D Fisher	|	user11	|
