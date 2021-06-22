@@ -11,8 +11,16 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-|	Dee	Lorean	|	user1	|
-|	Moss Tang	|	user2	|
-|	Tess Law	|	user3	|
-|	Monte Carlo	|	user4	|
-|	Martin Aston	|	user5	|
+|	Albert	L	|	user1	|
+|	Charlie	W	|	user2	|
+|	Dale	W	|	user3	|
+|	Horace	H	|	user4	|
+|	Janaki	M	|	user5	|
+|	Jay	F	|	user6	|
+|	Jong	A	|	user7	|
+|	Lynn	W	|	user8	|
+|	Sayandeb	G	|	user9	|
+|	scott	l	|	user10	|
+|	Shawn	H	|	user11	|
+|	Suzzane	S	|	user12	|
+|	Yuri	L	|	user13	|
