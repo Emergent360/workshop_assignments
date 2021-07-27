@@ -18,8 +18,8 @@
 | Neha	|	user5	|
 |	Patrick D		|	user6	|
 |	Rich R 	|	user7	|
-|	Vinatha B	|	user8	|
-|	Sandeep  |	user9	|
+|	Sandeep	|	user8	|
+|	Vinatha B  |	user9	|
 |		|	user10	|
 |		|	user11	|
 |		|	user12	|
