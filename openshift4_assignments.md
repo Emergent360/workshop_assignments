@@ -11,17 +11,17 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-|	Albert	L	|	user1	|
-|	Charlie	W	|	user2	|
-|	Dale	W	|	user3	|
-|	Horace	H	|	user4	|
-|	Janaki	M	|	user5	|
-|	Jay	F	|	user6	|
-|	Jong	A	|	user7	|
-|	Lynn	W	|	user8	|
-|	Sayandeb	G	|	user9	|
-|	scott	l	|	user10	|
-|	Shawn	H	|	user11	|
-|	Suzzane	S	|	user12	|
-|	Yuri	L	|	user13	|
-  | Emergent | user14 |
+|	Chazara CS	|	user1	|
+|	Rich R	|	user2	|
+|	Vinatha B	|	user3	|
+|		|	user4	|
+|		|	user5	|
+|		|	user6	|
+|		|	user7	|
+|		|	user8	|
+|	  |	user9	|
+|		|	user10	|
+|		|	user11	|
+|		|	user12	|
+|		|	user13	|
+| Emergent | user14 |
