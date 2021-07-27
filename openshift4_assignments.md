@@ -11,12 +11,12 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-|	Chazara CS	|	user1	|
-|	Neha	|	user2	|
-|	Rich R	|	user3	|
-|	Vinatha B	|	user4	|
-|		|	user5	|
-|		|	user6	|
+| Chazara CS	|	user1	|
+|	Cuong N	|	user2	|
+|	Erek B	|	user3	|
+|	Neha	|	user4	|
+|	Rich R	|	user5	|
+| Vinatha B		|	user6	|
 |		|	user7	|
 |		|	user8	|
 |	  |	user9	|
