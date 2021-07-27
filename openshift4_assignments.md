@@ -14,11 +14,11 @@
 | Chazara CS	|	user1	|
 |	Cuong N	|	user2	|
 |	Erek B	|	user3	|
-|	Neha	|	user4	|
-|	Rich R	|	user5	|
-| Vinatha B		|	user6	|
-|		|	user7	|
-|		|	user8	|
+|	Nathan D	|	user4	|
+| Neha	|	user5	|
+|	Patrick D		|	user6	|
+|	Rich R 	|	user7	|
+|	Vinatha B	|	user8	|
 |	  |	user9	|
 |		|	user10	|
 |		|	user11	|
