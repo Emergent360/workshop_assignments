@@ -11,46 +11,46 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-| Eric B	|	user1	|
+| Alexander H	|	user1	|
 |	Anissa B	|	user2	|
-|	Srilatha B	|	user3	|
-|	Frederick B	|	user4	|
-| Steven C	|	user5	|
-|	Melanie C		|	user6	|
-|	Ed C 	|	user7	|
-|	Kristen D	|	user8	|
-|	Prescott D  |	user9	|
-|	Mike E	|	user10	|
-|	Reginald F	|	user11	|
-|	Kelly F	|	user12	|
-|	John G	|	user13	|
-| Mitch G | user14 |
-|	Alexander H	|	user15	|
-|	Ariana H	|	user16	|
-| Jimmy J | user17 |
-|	Vernon E	|	user18	|
-|	Robert Li	|	user19	|
-| Robert Lo | user20 |
-|	Walter L	|	user21	|
-|	Gabriel L	|	user22	|
-| Lenin M | user23 |
-|	Brian M	|	user24	|
-|	Tony M	|	user25	|
-| Tracy M | user26 |
-|	Lora N	|	user27	|
-|	David N	|	user28	|
-| Jon P | user29 |
-|	Thomas P	|	user30	|
-|	Jonathon Q	|	user31	|
-| Jessy R | user32 |
-|	Wendy R	|	user33	|
-|	Shawn S	|	user34	|
-| Dawne S | user35 |
-| Vivek S | user36 |
-| Zachary S | user37 | 
-| Hanna T | user38 |
-| Charles W | user39 |
-| Martin W | user 40 |
-| Russell C | user 41 |
-| Martin M | user 42 |
-| Roland S | user 43 |
+|	Ariana H	|	user3	|
+|	Brian M	|	user4	|
+| Charles W	|	user5	|
+|	David N		|	user6	|
+|	Dawne S 	|	user7	|
+|	Ed C	|	user8	|
+|	Eric B  |	user9	|
+|	Frederick B	|	user10	|
+|	Gabriel L	|	user11	|
+|	Hanna T	|	user12	|
+|	Jessy R	|	user13	|
+| Jimmy J | user14 |
+|	John G	|	user15	|
+|	Jon P	|	user16	|
+| Jonathon Q | user17 |
+|	Kelly F	|	user18	|
+|	Kristen D	|	user19	|
+| Lenin M | user20 |
+|	Lora N	|	user21	|
+|	Martin M	|	user22	|
+| Martin W | user23 |
+|	Melanie C	|	user24	|
+|	Mike E	|	user25	|
+| Mitch G | user26 |
+|	Prescott D	|	user27	|
+|	Reginald F	|	user28	|
+| Robert Li | user29 |
+|	Robert Lo	|	user30	|
+|	Roland S	|	user31	|
+| Russell C | user32 |
+|	Shawn S	|	user33	|
+|	Srilatha B	|	user34	|
+| Steven C | user35 |
+| Thomas P | user36 |
+| Tony M | user37 | 
+| Tracy M | user38 |
+| Vernon E | user39 |
+| Vivek S | user 40 |
+| Walter L | user 41 |
+| Wendy R | user 42 |
+| Zachary S | user 43 |
