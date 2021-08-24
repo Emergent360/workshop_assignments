@@ -11,4 +11,4 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-| Stu Name | user1 |
+| Emergent Brian | user1 |
