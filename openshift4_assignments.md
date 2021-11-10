@@ -11,47 +11,32 @@
 
 |Student Name |Student ID|
 |------------ | ---------------|
-| Emergent Brian | user1 |
-| Alexander H	|	user2	|
-| Anissa B	|	user3	|
-| Ariana H	|	user4	|
-| Brian M	|	user5	|
-| Charles W	|	user6	|
-| David N	|	user7	|
-| Dawne S 	|	user8	|
-| Ed C	|	user9	|
-| Eric B  |	user10	|
-| Frederick B	|	user11	|
-| Gabriel L	|	user12	|
-| Hanna T	|	user13	|
-| Jessy R	|	user14	|
-| Jimmy J | user15 |
-| John G	|	user16	|
-| Jon P	|	user17	|
-| Jonathon Q | user18 |
-| Kelly F	|	user19	|
-| Kristen D	|	user20	|
-| Lenin M | user21 |
-| Lora N	|	user22	|
-| Martin M	|	user23	|
-| Martin W | user24 |
-| Melanie C	|	user25	|
-| Mike E	|	user26	|
-| Mitch G | user27 |
-| Prescott D	|	user28	|
-| Reginald F	|	user29	|
-| Robert Li | user30 |
-| Robert Lo	|	user31	|
-| Roland S	|	user32	|
-| Russell C | user33 |
-| Shawn S	|	user34	|
-| Srilatha B	|	user35	|
-| Steven C | user36 |
-| Thomas P | user37 |
-| Tony M | user38 | 
-| Tracy M | user39 |
-| Vernon E | user40 |
-| Vivek S | user 41 |
-| Walter L | user 42 |
-| Wendy R | user 43 |
-| Zachary S | user 44 |
+|	Emergent Brian	|	user1	|
+|	Alex C	|	user2	|
+|	Ananthsen	|	user3	|
+|	Anit L	|	user4	|
+|	Brian O	|	user5	|
+|	Dusty D	|	user6	|
+|	Eris C	|	user7	|
+|	Fayaz	|	user8	|
+|	Henrique C	|	user9	|
+|	Josh M	|	user10	|
+|	Marty	|	user11	|
+|	Mitchell C	|	user12	|
+|	Mohammed	|	user13	|
+|	Parth P	|	user14	|
+|	Paul D	|	user15	|
+|	Paul O	|	user16	|
+|	Peggy F	|	user17	|
+|	Robert G	|	user18	|
+|	Roberto R	|	user19	|
+|	Rod	|	user20	|
+|	Sammy	|	user21	|
+|	Srinivas C	|	user22	|
+|	Steven T	|	user23	|
+|	Sunny T	|	user24	|
+|	Tony N	|	user25	|
+|	Tyler	|	user26	|
+|	Umer R	|	user27	|
+
+
