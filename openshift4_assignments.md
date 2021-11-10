@@ -38,7 +38,6 @@
 |	Tony N	|	25	|	user25	|
 |	Tyler	|	26	|	user26	|
 |	Umer R	|	27	|	user27	|
-![image](https://user-images.githubusercontent.com/66794235/141175828-b23685d1-1110-4b50-a2d1-85c04c221375.png)
 
 
 
