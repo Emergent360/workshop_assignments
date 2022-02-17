@@ -16,10 +16,10 @@
 |	Mahesh	|	3	|	user3	|
 |	Subra	|	4	|	user4	|
 |	Basu	|	5	|	user5	|
-|	kalyana	|	6	|	user6	|
+|	Kalyana	|	6	|	user6	|
 |	Dharmender	|	7	|	user7	|
 |	Shravan	|	8	|	user8	|
-|	kamalakar	|	9	|	user9	|
+|	Kamalakar	|	9	|	user9	|
 |	Mark	|	10	|	user10	|
 |	Vinay	|	11	|	user11	|
 |	Matt	|	12	|	user12	|
