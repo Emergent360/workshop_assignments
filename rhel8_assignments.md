@@ -1,11 +1,12 @@
 # Workshop Assignments
 ## Lab Exercises: http://labs-emergent360.com/workshops/rhel_8/
 ### Configure Workshop
-- Student ID: see list below
-- Domain: lab-emergent360.com
-- Workshop: rhel8
+These two steps customize the exercises for you. Each student has their own workshop space and this ensures the exercises will be set for your space.
+- Student ID: see list below, use the ID to configure the workshop exercises for you.
+- Workshop: Change the workshop name from example to rhel8.
 
 ## Login
+After you connect to the RHEL8 system for the exercises, you can log in with the username and password. At the firet login you need to enable Administrative access in the RHEL8 console.
 - Username: ec2-user
 - Password: (provided in workshop)
 
