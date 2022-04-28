@@ -31,7 +31,7 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |Mitch|16|
 |Rita|17|
 |Thomas C.|18|
-||19|
+|Russell Alternative Login|19|
 ||20|
 ||21|
 ||22|
