@@ -28,8 +28,8 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |Russell|13|
 |Tanya|14|
 |Thomas|15|
-||16|
-||17|
+|Mitch|16|
+|Rita|17|
 ||18|
 ||19|
 ||20|
