@@ -12,22 +12,22 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 
 |Student Name |Student ID|
 |------------ | ---------------|
-||0|
-||1|
-||2|
-||3|
-||4|
-||5|
-||6|
-||7|
-||8|
-||9|
-||10|
-||11|
-||12|
-||13|
-||14|
-||15|
+|Anand|0|
+|Anissa|1|
+|Chris|2|
+|Dave|3|
+|David K.|4|
+|Dawne|5|
+|Jason C.|6|
+|Jason H.|7|
+|Jay|8|
+|Justin|9|
+|Matt|10|
+|Rajesh|11|
+|Robert|12|
+|Russell|13|
+|Tanya|14|
+|Thomas|15|
 ||16|
 ||17|
 ||18|
