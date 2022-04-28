@@ -32,7 +32,7 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |Rita|17|
 |Thomas C.|18|
 |Russell Alternative Login|19|
-||20|
+|Shawn Sanders|20|
 ||21|
 ||22|
 ||23|
