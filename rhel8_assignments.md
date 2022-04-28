@@ -3,7 +3,7 @@
 ### Configure Workshop
 - Student ID: see list below
 - Domain: lab-emergent360.com
-- Workshop: dia-rhel8
+- Workshop: rhel8
 
 ## Login
 - Username: ec2-user
