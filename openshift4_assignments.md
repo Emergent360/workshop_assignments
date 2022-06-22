@@ -13,12 +13,12 @@
 |------------ | ---------------| ---------------|
 |	Emergent Brian	|	1	|	user1	|
 |	Asif	|	2	|	user2	|
-|	Ming |	3	|	user3	|
-|	Syed |	4	|	user4	|
-| Vinay |	5	|	user5	|
-|	 |	6	|	user6	|
-|	 |	7	|	user7	|
-|	 |	8	|	user8	|
+|	Dinh |	3	|	user3	|
+|	Jay  |	4	|	user4	|
+| Ming |	5	|	user5	|
+|	Robert |	6	|	user6	|
+|	Syed |	7	|	user7	|
+|	Vinay |	8	|	user8	|
 |	 |	9	|	user9	|
 |	 |	10	|	user10	|
 |	 |	11	|	user11	|
