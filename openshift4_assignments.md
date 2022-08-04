@@ -20,7 +20,7 @@
 |	Derek N  |	7	|	user7	|
 |	Jugnu  |	8	|	user8	|
 | Kumar  |	9	|	user9	|
-|	Luis Paulo  |	10	|	user10	|
+|	Luis P  |	10	|	user10	|
 |	Paul |	11	|	user11	|
 | Sundar K | 12 | user12 |
 | Benny Yih| 13 | user13 |  
