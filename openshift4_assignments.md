@@ -23,7 +23,7 @@
 |	Luis P  |	10	|	user10	|
 |	Paul |	11	|	user11	|
 | Sundar K | 12 | user12 |
-| Benny Yih| 13 | user13 |  
+| Benny Y| 13 | user13 |  
 
 
   
