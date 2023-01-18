@@ -12,22 +12,22 @@
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
 |	Emergent Brian	|	1	|	user1	|
-|	Amin Q	|	2	|	user2	|
-|	Bill A  |	3	|	user3	|
-|	Daryl W  |	4	|	user4	|
-| Ethan G  |	5	|	user5	|
-|	Gerald P |	6	|	user6	|
-|	Glenn B |	7	|	user7	|
-|	Jay K |	8	|	user8	|
-| Manoj K  |	9	|	user9	|
-|	Nagasiva K |	10	|	user10	|
-|	Ryan S |	11	|	user11	|
-| Saravana B | 12 | user12 |
-| Scotty M | 13 | user13 |
-| Sid (Walter) | 14 | user14 |
-| Amna R | 15 | user15 |
-| Pradeep | 16 | user16 |
-| Vu | 17 | user17 |
+|	Ali K	|	2	|	user2	|
+|	Brookman A  |	3	|	user3	|
+|	Emmanuel C |	4	|	user4	|
+| Justin L  |	5	|	user5	|
+|	Mohammed F |	6	|	user6	|
+|	Paul F |	7	|	user7	|
+|	Vince H |	8	|	user8	|
+| William Kimbleton |	9	|	user9	|
+|	|	10	|	user10	|
+|	| 11	|	user11	|
+| | 12 | user12 |
+| | 13 | user13 |
+| | 14 | user14 |
+| | 15 | user15 |
+| | 16 | user16 |
+| | 17 | user17 |
 | | 18 | user18 |  
 | | 19 | user19 |  
 | | 20 | user20 |  
