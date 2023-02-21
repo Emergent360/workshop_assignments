@@ -6,59 +6,49 @@ These two steps customize the exercises for you. Each student has their own work
 - Workshop: Change the workshop name from "example" to **rhel8**.
 
 ## Login
-After you connect to the RHEL8 system for the exercises, you can log in with the username and password. At the firet login you need to enable Administrative access in the RHEL8 console.
+After you connect to the RHEL8 system for the exercises, you can log in with the username and password. Upon first login you need to enable Administrative access in the RHEL8 console.
 - Username: ec2-user
 - Password: (provided in workshop)
 
-|Student Name |Student ID|
+| Student Name | Student ID |
 |------------ | ---------------|
-|Anand|0|
-|Anissa|1|
-|Chris|2|
-|Dave|3|
-|David K.|4|
-|Dawne|5|
-|Jason C.|6|
-|Jason H.|7|
-|Jay|8|
-|Justin|9|
-|Matt|10|
-|Rajesh|11|
-|Robert|12|
-|Russell|13|
-|Tanya|14|
-|Thomas A.|15|
-|Mitch|16|
-|Rita|17|
-|Thomas C.|18|
-|Russell Alternative Login|19|
-|Shawn Sanders|20|
-||21|
-||22|
-||23|
-||24|
-||25|
-||26|
-||27|
-||28|
-||29|
-||30|
-||31|
-||32|
-||33|
-||34|
-||35|
-||36|
-||37|
-||38|
-||39|
-||40|
-||41|
-||42|
-||43|
-||44|
-||45|
-||46|
-||47|
-||48|
-||49|
+| Emergent Brian | 0 |
+|	David	G	|	1	|
+|	Brenda	T	|	2	|
+|	Chris 	S	|	3	|
+|	Christopher	N	|	4	|
+|	David	B	|	5	|
+|	Ed	R	|	6	|
+|	Edward	H	|	7	|
+|	Eric	L	|	8	|
+|	Errol	M	|	9	|
+|	Florin	P	|	10	|
+|	Guochang	Z	|	11	|
+|	Gus	T	|	12	|
+|	Herman	E	|	13	|
+|	Ismail	M	|	14	|
+|	James	M	|	15	|
+|	Javier	P	|	16	|
+|	Jerold	C	|	17	|
+|	Jesse	K	|	18	|
+|	John	C	|	19	|
+|	Judy	K	|	20	|
+|	kathy	k	|	21	|
+|	Ken	G	|	22	|
+|	Manoj	K	|	23	|
+|	Mark	L	|	24	|
+|	Murad	M	|	25	|
+|	Nick	A	|	26	|
+|	Nick	L	|	27	|
+|	Paul	B	|	28	|
+|	Ron	M	|	29	|
+|	Roy	C	|	30	|
+|	Sam	S	|	31	|
+|	Shrikant	K	|	32	|
+|	Thomas	C	|	33	|
+|	Timothy	S	|	34	|
+|	Tod	S	|	35	|
+|	Tomas	H	|	36	|
+|	Tyler	R	|	37	|
+|	Valerie	N	|	38	|
+|	Vinay	G	|	39	|
