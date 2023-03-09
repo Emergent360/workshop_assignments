@@ -17,7 +17,7 @@
 |	Babusasidhar |	4	|	user4	|
 | Benjamin O  |	5	|	user5	|
 |	Darren H |	6	|	user6	|
-|	ehe1 |	7	|	user7	|
+|	Elizabeth |	7	|	user7	|
 |	Eric |	8	|	user8	|
 | Eric O |	9	|	user9	|
 | Francois B	|	10	|	user10	|
