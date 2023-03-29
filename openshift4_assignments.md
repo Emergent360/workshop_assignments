@@ -12,18 +12,18 @@
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
 |	Emergent Brian	|	1	|	user1	|
-|	Anthony |	2	|	user2	|
-|	Dinh |	3	|	user3	|
-|	Lee |	4	|	user4	|
-| Neil |	5	|	user5	|
-|	Nirmal |	6	|	user6	|
-|	Prasad |	7	|	user7	|
-|	Tay |	8	|	user8	|
-| Tim |	9	|	user9	|
-|  |	10	|	user10	|
-|	 | 11	|	user11	|
-|  | 12 | user12 |
-|  | 13 | user13 |
+|	Chris	G	|	2	|	user2	|
+|	Clinton	B	|	3	|	user3	|
+|	Daniel	W	|	4	|	user4	|
+|	David	B	|	5	|	user5	|
+|	James	D	|	6	|	user6	|
+|	Jeff	G	|	7	|	user7	|
+|	John	M	|	8	|	user8	|
+|	Kenneth	S	|	9	|	user9	|
+|	Kevin	L	|	10	|	user10	|
+|	Lisa	D	|	11	|	user11	|
+|	Ray	W	|	12	|	user12	|
+|	Stacey	B	|	13	|	user13	|
 |  | 14 | user14 |
 |  | 15 | user15 |
 |  | 16 | user16 |
