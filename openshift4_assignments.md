@@ -22,7 +22,7 @@
 |	Kenza G	|	9	|	user9	|
 |	Kuan F	|	10	|	user10	|
 |	Tim F	|	11	|	user11	|
-|	|	12	|	user12	|
+|	Darlene B |	12	|	user12	|
 |	|	13	|	user13	|
 | | 14 | user14 |
 | | 15 | user15 |
