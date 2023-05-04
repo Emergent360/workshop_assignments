@@ -12,7 +12,7 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 
 | Student Name | Student ID |
 |------------ | ---------------|
-| Emergent Brian | 0 |
+| Joseph F | 0 |
 |	Alex A	|	1	|
 |	Alfred E	|	2	|
 |	Alicia C	|	3	|
@@ -47,7 +47,7 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |	Christian G	|	32	|
 |	Alice J	|	33	|
 |	Clint S	|	34	|
-|	Joseph F	|	35	|
+|		|	35	|
 |		|	36	|
 |		|	37	|
 |		|	38	|
