@@ -13,42 +13,42 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 | Student Name | Student ID |
 |------------ | ---------------|
 | Emergent Brian | 0 |
-|	David	G	|	1	|
-|	Brenda	T	|	2	|
-|	Chris 	S	|	3	|
-|	Christopher	N	|	4	|
-|	David	B	|	5	|
-|	Ed	R	|	6	|
-|	Edward	H	|	7	|
-|	Eric	L	|	8	|
-|	Errol	M	|	9	|
-|	Florin	P	|	10	|
-|	Guochang	Z	|	11	|
-|	Gus	T	|	12	|
-|	Herman	E	|	13	|
-|	Ismail	M	|	14	|
-|	James	M	|	15	|
-|	Javier	P	|	16	|
-|	Jerold	C	|	17	|
-|	Jesse	K	|	18	|
-|	John	C	|	19	|
-|	Judy	K	|	20	|
-|	kathy	k	|	21	|
-|	Ken	G	|	22	|
-|	Manoj	K	|	23	|
-|	Mark	L	|	24	|
-|	Murad	M	|	25	|
-|	Nick	A	|	26	|
-|	Nick	L	|	27	|
-|	Paul	B	|	28	|
-|	Ron	M	|	29	|
-|	Roy	C	|	30	|
-|	Sam	S	|	31	|
-|	Shrikant	K	|	32	|
-|	Thomas	C	|	33	|
-|	Timothy	S	|	34	|
-|	Tod	S	|	35	|
-|	Tomas	H	|	36	|
-|	Tyler	R	|	37	|
-|	Valerie	N	|	38	|
-|	Vinay	G	|	39	|
+|	Alex A	|	1	|
+|	Alfred E	|	2	|
+|	Alicia C	|	3	|
+|	Amir J	|	4	|
+|	Anthony D	|	5	|
+|	Brian L	|	6	|
+|	CB	H	|	7	|
+|	Chen H	L	|	8	|
+|	Chuck B	|	9	|
+|	David K	|	10	|
+|	Dawne S	|	11	|
+|	D'Careius H	|	12	|
+|	Emma M	|	13	|
+|	Erik A  |	14	|
+|	Gordon H	|	15	|
+|	Henry U	|	16	|
+|	Ian H	|	17	|
+|	James L	|	18	|
+|	James S	|	19	|
+|	Jesse S	|	20	|
+|	Julian J	|	21	|
+|	Larry C	|	22	|
+|	Michael L	|	23	|
+|	Mohammed B	|	24	|
+|	Randy E	|	25	|
+|	Rob C	|	26	|
+|	Shawn S |	27	|
+|	Tanya F	|	28	|
+|	Victor A	|	29	|
+|		|	30	|
+| 	|	31	|
+|		|	32	|
+|		|	33	|
+|		|	34	|
+|		|	35	|
+|		|	36	|
+|		|	37	|
+|		|	38	|
+|		|	39	|
