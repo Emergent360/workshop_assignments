@@ -45,9 +45,9 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |	Julie H	|	30	|
 | Ruth L	|	31	|
 |	Christian G	|	32	|
-|		|	33	|
-|		|	34	|
-|		|	35	|
+|	Alice J	|	33	|
+|	Clint S	|	34	|
+|	Joseph F	|	35	|
 |		|	36	|
 |		|	37	|
 |		|	38	|
