@@ -42,9 +42,9 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 |	Shawn S |	27	|
 |	Tanya F	|	28	|
 |	Victor A	|	29	|
-|		|	30	|
-| 	|	31	|
-|		|	32	|
+|	Julie H	|	30	|
+| Ruth L	|	31	|
+|	Christian G	|	32	|
 |		|	33	|
 |		|	34	|
 |		|	35	|
