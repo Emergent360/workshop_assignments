@@ -12,41 +12,23 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 
 | Student Name | Student ID |
 |------------ | ---------------|
-| Joseph F | 0 |
-|	Alex A	|	1	|
-|	Alfred E	|	2	|
-|	Alicia C	|	3	|
-|	Amir J	|	4	|
-|	Anthony D	|	5	|
-|	Brian L	|	6	|
-|	CB	H	|	7	|
-|	Chen H	L	|	8	|
-|	Chuck B	|	9	|
-|	David K	|	10	|
-|	Dawne S	|	11	|
-|	D'Careius H	|	12	|
-|	Emma M	|	13	|
-|	Erik A  |	14	|
-|	Gordon H	|	15	|
-|	Henry U	|	16	|
-|	Ian H	|	17	|
-|	James L	|	18	|
-|	James S	|	19	|
-|	Jesse S	|	20	|
-|	Julian J	|	21	|
-|	Larry C	|	22	|
-|	Michael L	|	23	|
-|	Mohammed B	|	24	|
-|	Randy E	|	25	|
-|	Rob C	|	26	|
-|	Shawn S |	27	|
-|	Tanya F	|	28	|
-|	Victor A	|	29	|
-|	Julie H	|	30	|
-| Ruth L	|	31	|
-|	Christian G	|	32	|
-|	Alice J	|	33	|
-|	Clint S	|	34	|
+| Tanya F | 1|
+| Mark A | 2 | 
+| Richard S | 3 |
+| Alfred E | 4| 
+| James S | 5 |
+| erik a | 6 |
+| Alicia C | 7 |
+| Larry C | 8 |
+| Joshua B | 9 |
+| Christian G | 10 |
+| Gorden H | 11 |
+| Delaine J | 12 | 
+| Gerson G | 13 |
+| gagandeep s | 14 |
+| Jesse S | 15 |
+|Mohammed B | 16 |
+| Anthony Doria | 17 |
 |		|	35	|
 |		|	36	|
 |		|	37	|
