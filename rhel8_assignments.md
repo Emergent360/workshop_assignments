@@ -29,6 +29,8 @@ After you connect to the RHEL8 system for the exercises, you can log in with the
 | Jesse S | 15 |
 |Mohammed B | 16 |
 | Anthony Doria | 17 |
+| Jesse S 2 | 18 |
+| Gorden H 2 | 19 |
 |		|	35	|
 |		|	36	|
 |		|	37	|
