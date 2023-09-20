@@ -11,21 +11,21 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	Emergent Brian	|	1	|	user1	|
-|	Ankit S	|	2	|	user2	|
-|	Dave C	B	|	3	|	user3	|
-|	David E	W	|	4	|	user4	|
-|	Elo C	|	5	|	user5	|
-|	Gaurav J|	6	|	user6	|
-|	Jason M	|	7	|	user7	|
-|	Joel B	|	8	|	user8	|
-|	Kenza G	|	9	|	user9	|
-|	Kuan F	|	10	|	user10	|
-|	Tim F	|	11	|	user11	|
-|	Darlene B |	12	|	user12	|
-|	|	13	|	user13	|
-| | 14 | user14 |
-| | 15 | user15 |
+|	Emergent Leader	|	1	|	user1	|
+|	Adrian I	|	2	|	user2	|
+|	Alan L	|	3	|	user3	|
+|	Cameron R |	4	|	user4	|
+|	Charles J |	5	|	user5	|
+|	Christian F |	6	|	user6	|
+|	Daniel P	|	7	|	user7	|
+|	Darren L	|	8	|	user8	|
+|	Jason H	|	9	|	user9	|
+|	Joel 	|	10	|	user10	|
+|	John G	|	11	|	user11	|
+|	Lloyd O |	12	|	user12	|
+|	Peter B |	13	|	user13	|
+| Thomas P | 14 | user14 |
+| Wenzel G | 15 | user15 |
 |  | 16 | user16 |
 |  | 17 | user17 |
 |  | 18 | user18 |  
