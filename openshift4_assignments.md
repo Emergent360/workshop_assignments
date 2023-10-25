@@ -11,59 +11,53 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	Emergent Leader	|	1	|	user1	|
-|	Airon M	|	2	|	user2	|
-|	Alejandro K	|	3	|	user3	|
-|	Andrew P |	4	|	user4	|
-|	Andrew R |	5	|	user5	|
-|	Angela R |	6	|	user6	|
-|	Arleen L	|	7	|	user7	|
-|	Billy P	|	8	|	user8	|
-|	Bryan F	|	9	|	user9	|
-|	Charles W 	|	10	|	user10	|
-|	Connor A	|	11	|	user11	|
-|	Daniel K |	12	|	user12	|
-|	David B |	13	|	user13	|
-| David L | 14 | user14 |
-| David N | 15 | user15 |
-|  Drew B | 16 | user16 |
-|  Eric R | 17 | user17 |
-|  Eric H | 18 | user18 |  
-|  Gary C | 19 | user19 |  
-|  Gary M | 20 | user20 |  
-|  Gregory H | 21 | user21 |
-|  Henry U | 22 | user22 |
-|  Jason Ha | 23 | user23 |
-|  Jason He | 24 | user24 |
-|  Jesse S| 25 | user25 |
-|  Jessy R | 26 | user26 |
-|  John D | 27 | user27 |
-|  John F | 28 | user28 |
-|  Joseph D | 29 | user29 |
-|  Justin S | 30 | user30 |
-|  Kevin K | 31 | user31 |
-|  Kristin W | 32 | user32 |
-|  Maheshwari K | 33 | user33 |
-|  Mary D | 34 | user34 |
-|  Matthew L | 35 | user35 |  
-|  Max N | 36 | user36 |
-|  Merrick J | 37 | user37 |
-|  Michael L | 38 | user38 |
-|  Mohammed B | 39 | user39 |
-|  Nathan A | 40 | user40 |
-|  Ned G | 41 | user41 |
-|  Nihar G | 42 | user42 |
-|  Okwudili I | 43 | user43 |
-|  Quy H | 44 | user44 |
-|  Rajesh V | 45 | user45 |
-|  Ramesh M | 46 | user46 |
-|  Richard P | 47 | user47 |
-|  Robert V | 48 | user48 |
-|  Russell H | 49 | user49 |
-|  Samuel H | 50 | user50 |
-|  Scott P | 51 | user51 |
-|  Scotty M | 52 | user52 |
-|  Seth W | 53 | user53 |
-|  Stacy S | 54 | user54   
-|  William B | 55 | user55
-|  William E | 56 | user56
+|	Jason M	|	1	|	user1	|
+|	Tim D	|	2	|	user2	|
+|	Michael G	|	3	|	user3	|
+|	Eric Hansen |	4	|	user4	|
+|	Heather M |	5	|	user5	|
+|	David J |	6	|	user6	|
+|	Nasser R	|	7	|	user7	|
+|	Jim R	|	8	|	user8	|
+|	Joanna S	|	9	|	user9	|
+|	Tony T 	|	10	|	user10	|
+|	Nathan Red Hat	|	11	|	user11	|
+|	x |	12	|	user12	|
+|	x |	13	|	user13	|
+| x | 14 | user14 |
+| x | 15 | user15 |
+|  x | 16 | user16 |
+|  x | 17 | user17 |
+|  x | 18 | user18 |  
+|  x | 19 | user19 |  
+|  x | 20 | user20 |  
+|  x | 21 | user21 |
+|  x | 22 | user22 |
+|  x | 23 | user23 |
+|  x | 24 | user24 |
+|  x| 25 | user25 |
+|  x | 26 | user26 |
+|  x | 27 | user27 |
+|  x | 28 | user28 |
+|  x | 29 | user29 |
+|  x | 30 | user30 |
+|  x | 31 | user31 |
+|  x | 32 | user32 |
+|  x | 33 | user33 |
+|  x | 34 | user34 |
+|  x | 35 | user35 |  
+|  x | 36 | user36 |
+|  x | 37 | user37 |
+|  x | 38 | user38 |
+|  x | 39 | user39 |
+|  x | 40 | user40 |
+|  x | 41 | user41 |
+|  x | 42 | user42 |
+|  x | 43 | user43 |
+|  x | 44 | user44 |
+|  x | 45 | user45 |
+|  x | 46 | user46 |
+|  x | 47 | user47 |
+|  x | 48 | user48 |
+|  x | 49 | user49 |
+|  x | 50 | user50 |
