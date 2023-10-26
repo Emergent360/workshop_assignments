@@ -58,6 +58,6 @@
 |  x | 45 | user45 |
 |  x | 46 | user46 |
 |  x | 47 | user47 |
-|  x | 48 | user48 |
+| Andrea F :) | 48 | user48 |
 | Kenny M | 49 | user49 |
 |  x | 50 | user50 |
