@@ -40,7 +40,7 @@
 | Tsega | 27 | user27 |
 | Vijay | 28 | user28 |
 | William B | 29 | user29 |
-|  x | 30 | user30 |
+| Martin | 30 | user30 |
 |  x | 31 | user31 |
 |  x | 32 | user32 |
 |  x | 33 | user33 |
