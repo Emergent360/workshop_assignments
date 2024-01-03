@@ -11,7 +11,7 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	heather	:) |	1	|	user1	|
+|	Heather/Jason	:) |	1	|	user1	|
 |	Francois T	|	2	|	user2	|
 |	Sanjay P	|	3	|	user3	|
 |	Charlie P |	4	|	user4	|
