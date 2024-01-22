@@ -11,31 +11,31 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	Heather/Jason	:) |	1	|	user1	|
-|	Francois T	|	2	|	user2	|
-|	Sanjay P	|	3	|	user3	|
-|	Charlie P |	4	|	user4	|
-|	Jermaine G |	5	|	user5	|
-|	Tonhyan L |	6	|	user6	|
-|	Wisdom E |	7	|	user7	|
-|	Jonathan R	|	8	|	user8	|
-|	Jonathan G	|	9	|	user9	|
-|	Gildas B 	|	10	|	user10	|
-|	Tong H	|	11	|	user11	|
-|	Syed H |	12	|	user12	|
-|	Yin M |	13	|	user13	|
-| Matthew B | 14 | user14 |
-| Derek W | 15 | user15 |
-| Jason M | 16 | user16 |
-| Cary R | 17 | user17 |
-| Cody P | 18 | user18 |  
-| Liang L | 19 | user19 |  
-| Cuong N | 20 | user20 |  
-| Jeanine M | 21 | user21 |
-| Dustin M | 22 | user22 |
-| Aditi S | 23 | user23 |
-| Kristin A | 24 | user24 |
-| Tanvir R | 25 | user25 |
+|	Jason	 |	1	|	user1	|
+|	Anton S	|	2	|	user2	|
+|	Ayan 	|	3	|	user3	|
+|	 Bingguao Y |	4	|	user4	|
+|	David S |	5	|	user5	|
+|	Giridhar  |	6	|	user6	|
+|	Greg E |	7	|	user7	|
+|	Jeanine M	|	8	|	user8	|
+|	John C	|	9	|	user9	|
+|	Michael M 	|	10	|	user10	|
+|	Mohamed H	|	11	|	user11	|
+|	Mohammad R |	12	|	user12	|
+|	Ramesh |	13	|	user13	|
+| Rich K | 14 | user14 |
+| Saritha | 15 | user15 |
+| Teresa R | 16 | user16 |
+| Thomas M | 17 | user17 |
+| X Lou | 18 | user18 |  
+| Xuan| 19 | user19 |  
+| Yuping | 20 | user20 |  
+| x| 21 | user21 |
+| x | 22 | user22 |
+| x | 23 | user23 |
+| x | 24 | user24 |
+| x | 25 | user25 |
 | x | 26 | user26 |
 | x | 27 | user27 |
 | x | 28 | user28 |
