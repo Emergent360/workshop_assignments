@@ -15,13 +15,13 @@
 |	Amaryllis	|	2	|	user2	|
 |	Eduardo	|	3	|	user3	|
 |	Jeanine |	4	|	user4	|
-|	John |	5	|	user5	|
+|	John C |	5	|	user5	|
 |	Norval |	6	|	user6	|
 |	Ryan |	7	|	user7	|
 |	Tony |	8	|	user8	|
 |	Yin |	9	|	user9	|
-|	x |	10	|	user10	|
-|	x	|	11	|	user11	|
+|	Javier |	10	|	user10	|
+|	George	|	11	|	user11	|
 |	x |	12	|	user12	|
 |	x |	13	|	user13	|
 | x | 14 | user14 |
