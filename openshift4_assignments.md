@@ -12,14 +12,14 @@
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
 |	Jason	 |	1	|	user1	|
-|	Wanyi	|	2	|	user2	|
-|	Margarita	|	3	|	user3	|
-|	Ryan |	4	|	user4	|
-|	Aleksey |	5	|	user5	|
-|	Fabio |	6	|	user6	|
-|	Jack |	7	|	user7	|
-|	Madhan |	8	|	user8	|
-|	x |	9	|	user9	|
+|	Amaryllis	|	2	|	user2	|
+|	Eduardo	|	3	|	user3	|
+|	Jeanine |	4	|	user4	|
+|	John |	5	|	user5	|
+|	Norval |	6	|	user6	|
+|	Ryan |	7	|	user7	|
+|	Tony |	8	|	user8	|
+|	Yin |	9	|	user9	|
 |	x |	10	|	user10	|
 |	x	|	11	|	user11	|
 |	x |	12	|	user12	|
