@@ -22,9 +22,9 @@
 |	Yin |	9	|	user9	|
 |	Javier |	10	|	user10	|
 |	George	|	11	|	user11	|
-|	x |	12	|	user12	|
-|	x |	13	|	user13	|
-| x | 14 | user14 |
+|	Jon |	12	|	user12	|
+|	Madhu |	13	|	user13	|
+| Marc | 14 | user14 |
 | x | 15 | user15 |
 | x | 16 | user16 |
 | x | 17 | user17 |
