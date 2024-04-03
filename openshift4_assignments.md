@@ -12,25 +12,25 @@
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
 |	Jason	 |	1	|	user1	|
-|	Jaya	|	2	|	user2	|
-|	Mike C	|	3	|	user3	|
-|	Andy |	4	|	user4	|
-|	Shingyan |	5	|	user5	|
-|	Deepa |	6	|	user6	|
-|	Taranvir |	7	|	user7	|
-|	Alejandro |	8	|	user8	|
-|	Faisal |	9	|	user9	|
-|	Ryan M |	10	|	user10	|
-|	Michael M	|	11	|	user11	|
-|	Frank O |	12	|	user12	|
-|	Emnanuel |	13	|	user13	|
-| Nitin | 14 | user14 |
-| Swaroop | 15 | user15 |
-| Xun | 16 | user16 |
-| Marty | 17 | user17 |
-| Joe | 18 | user18 |  
-| Fabio | 19 | user19 |  
-| Ryan | 20 | user20 |  
+|	Andrea	|	2	|	user2	|
+|	Jessica	|	3	|	user3	|
+|	Marc |	4	|	user4	|
+|	Martin |	5	|	user5	|
+|	Ming |	6	|	user6	|
+|	x |	7	|	user7	|
+|	x |	8	|	user8	|
+|	x |	9	|	user9	|
+|	x |	10	|	user10	|
+|	x	|	11	|	user11	|
+|	x |	12	|	user12	|
+|	x |	13	|	user13	|
+| x | 14 | user14 |
+| x | 15 | user15 |
+| x | 16 | user16 |
+| x | 17 | user17 |
+| x | 18 | user18 |  
+| x | 19 | user19 |  
+| x | 20 | user20 |  
 | x | 21 | user21 |
 | x | 22 | user22 |
 | x | 23 | user23 |
