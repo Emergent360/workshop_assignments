@@ -19,7 +19,7 @@
 |	Pamela |	6	|	user6	|
 |	Leonid |	7	|	user7	|
 |	TC |	8	|	user8	|
-|	x |	9	|	user9	|
+|	Binu |	9	|	user9	|
 |	x |	10	|	user10	|
 |	x	|	11	|	user11	|
 |	x |	12	|	user12	|
