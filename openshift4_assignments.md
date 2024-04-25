@@ -11,21 +11,21 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	Jason	 |	1	|	user1	|
-|	Cheng-Yuh	|	2	|	user2	|
-|	Christina	|	3	|	user3	|
-|	Thomas E |	4	|	user4	|
-|	Carlton |	5	|	user5	|
-|	Pamela |	6	|	user6	|
-|	Leonid |	7	|	user7	|
-|	TC |	8	|	user8	|
-|	Binu |	9	|	user9	|
-|	x |	10	|	user10	|
-|	x	|	11	|	user11	|
-|	x |	12	|	user12	|
-|	x |	13	|	user13	|
-| x | 14 | user14 |
-| x | 15 | user15 |
+|	Kenny - Emergent	 |	1	|	user1	|
+|	Aram	|	2	|	user2	|
+|	Dean	|	3	|	user3	|
+|	Edgars |	4	|	user4	|
+|	Eric |	5	|	user5	|
+|	Ganesh |	6	|	user6	|
+|	Gyorgi |	7	|	user7	|
+|	Jaya |	8	|	user8	|
+|	Jean-Pierre |	9	|	user9	|
+|	Luis |	10	|	user10	|
+|	Nathan	|	11	|	user11	|
+|	Rafay |	12	|	user12	|
+|	Tyler |	13	|	user13	|
+| William | 14 | user14 |
+| Wisdom | 15 | user15 |
 | x | 16 | user16 |
 | x | 17 | user17 |
 | x | 18 | user18 |  
