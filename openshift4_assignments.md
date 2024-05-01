@@ -23,7 +23,7 @@
 |	Vibheeshan |	10	|	user10	|
 |	Wenyee	|	11	|	user11	|
 |	Yuping |	12	|	user12	|
-|	x |	13	|	user13	|
+|	Andrew |	13	|	user13	|
 | x | 14 | user14 |
 | x | 15 | user15 |
 | x | 16 | user16 |
