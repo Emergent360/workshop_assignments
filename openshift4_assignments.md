@@ -15,7 +15,7 @@
 |	Jambu	|	2	|	user2	|
 |	Jeanine	|	3	|	user3	|
 |	Madhu |	4	|	user4	|
-|	Monir |	5	|	user5	|
+|	x |	5	|	user5	|
 |	Oshiberu |	6	|	user6	|
 |	Rich |	7	|	user7	|
 |	Samuel |	8	|	user8	|
@@ -24,7 +24,7 @@
 |	Wenyee	|	11	|	user11	|
 |	Yuping |	12	|	user12	|
 |	Andrew |	13	|	user13	|
-| x | 14 | user14 |
+| Monir | 14 | user14 |
 | x | 15 | user15 |
 | x | 16 | user16 |
 | x | 17 | user17 |
