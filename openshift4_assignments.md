@@ -30,7 +30,7 @@
 | Ramanuj | 17 | user17 |
 | Rizki | 18 | user18 |  
 | Tina | 19 | user19 |  
-| Tony | 20 | user20 |  
+| Toni | 20 | user20 |  
 | Tyler | 21 | user21 |
 | Wisdom | 22 | user22 |
 | x | 23 | user23 |
