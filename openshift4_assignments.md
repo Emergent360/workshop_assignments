@@ -12,12 +12,10 @@
 |	Blake	|	2	|	https://showroom-showroom-gcv9j.apps.cluster-gcv9j.gcv9j.sandbox558.opentlc.com/	|
 |	Colton	|	3	|	https://showroom-showroom-96h9t.apps.cluster-96h9t.96h9t.sandbox5461.opentlc.com/	|
 |	Jay |	4	|	https://showroom-showroom-sxslc.apps.cluster-sxslc.sxslc.sandbox1861.opentlc.com/	|
-|	Jim |	5	|	 https://showroom-showroom-nfr4l.apps.cluster-nfr4l.nfr4l.sandbox583.opentlc.com/ 
-	|
-|	John |	6	|	https://showroom-showroom-hlvnb.apps.cluster-hlvnb.hlvnb.sandbox3279.opentlc.com/	|
-|	Johnathan G |	7	|	https://showroom-showroom-mnz2g.apps.cluster-mnz2g.mnz2g.sandbox1593.opentlc.com/	|
-|	Robert |	8	|	 https://showroom-showroom-5kwwh.apps.cluster-5kwwh.5kwwh.sandbox2823.opentlc.com/ 
-	|
+|	Jim |	5	|	 https://showroom-showroom-nfr4l.apps.cluster-nfr4l.nfr4l.sandbox583.opentlc.com/ |
+|	John |	6	|	https://showroom-showroom-hlvnb.apps.cluster-hlvnb.hlvnb.sandbox3279.opentlc.com/ |
+|	Johnathan G |	7	|	https://showroom-showroom-mnz2g.apps.cluster-mnz2g.mnz2g.sandbox1593.opentlc.com/|
+|	Robert |	8	|	 https://showroom-showroom-5kwwh.apps.cluster-5kwwh.5kwwh.sandbox2823.opentlc.com/ |
 |	Thomas |	9	|	user9	|
 |	 |	10	|	user10	|
 |		|	11	|	user11	|
