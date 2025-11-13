@@ -18,7 +18,7 @@
 |	Robert |	8	|	 https://showroom-showroom-5kwwh.apps.cluster-5kwwh.5kwwh.sandbox2823.opentlc.com/ |
 |	Thomas |	9	|	https://showroom-showroom-j6hkz.apps.cluster-j6hkz.j6hkz.sandbox1102.opentlc.com/ |
 |	Natalie |	10	|	https://showroom-showroom-n4h2w.apps.cluster-n4h2w.n4h2w.sandbox2099.opentlc.com/	|
-|	 |	11	|	https://showroom-showroom-2hvrb.apps.cluster-2hvrb.2hvrb.sandbox799.opentlc.com/	|
+|	Arista |	11	|	https://showroom-showroom-2hvrb.apps.cluster-2hvrb.2hvrb.sandbox799.opentlc.com/	|
 |	 |	12	|	https://showroom-showroom-h2wzv.apps.cluster-h2wzv.h2wzv.sandbox5212.opentlc.com/	|
 |	 |	13	|	https://showroom-showroom-wtck8.apps.cluster-wtck8.wtck8.sandbox5351.opentlc.com/	|
 | Kenny - Emergent  | 14 | https://showroom-showroom-ml7c9.apps.cluster-ml7c9.ml7c9.sandbox829.opentlc.com/ |
