@@ -1,9 +1,6 @@
-# Workshop Assignments
-## Lab Exercises: http://labs-emergent360.com/workshops/openshift_4_101/
+# Workshop Assignment
 ### Configure Workshop
-- Student ID: see list below
-- Domain: lab-emergent360.com
-- Workshop: openshift4
+- Workshop: OpenShift Plus
 
 ## Login
 - Username: user<id> (see ID below; for example, "user1")
@@ -11,7 +8,7 @@
 
 | Student Name | Student ID | OpenShift Username | 
 |------------ | ---------------| ---------------|
-|	Kenny - Emergent	 |	1	|	user1	|
+|	Arjun	 |	1	|	user1	|
 |	Andrade	|	2	|	user2	|
 |	Bazeed	|	3	|	user3	|
 |	Binu |	4	|	user4	|
