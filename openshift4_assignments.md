@@ -6,7 +6,7 @@
 - Username: user<id> (see ID below; for example, "user1")
 - Password: (provided in workshop)
 
-| Student Name | Password | OpenShift Link | 
+| Student Name | Attendee # | OpenShift Link | 
 |------------ | ---------------| ---------------|
 |	Arjun	 |	1	|	https://showroom-showroom-9mg8g.apps.cluster-9mg8g.9mg8g.sandbox1588.opentlc.com/	|
 |	Blake	|	2	|	https://showroom-showroom-gcv9j.apps.cluster-gcv9j.gcv9j.sandbox558.opentlc.com/	|
