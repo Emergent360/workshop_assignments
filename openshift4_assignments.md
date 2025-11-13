@@ -16,7 +16,7 @@
 |	John |	6	|	https://showroom-showroom-hlvnb.apps.cluster-hlvnb.hlvnb.sandbox3279.opentlc.com/ |
 |	Johnathan G |	7	|	https://showroom-showroom-mnz2g.apps.cluster-mnz2g.mnz2g.sandbox1593.opentlc.com/|
 |	Robert |	8	|	 https://showroom-showroom-5kwwh.apps.cluster-5kwwh.5kwwh.sandbox2823.opentlc.com/ |
-|	Thomas |	9	|	user9	|
+|	Thomas |	9	|	https://showroom-showroom-j6hkz.apps.cluster-j6hkz.j6hkz.sandbox1102.opentlc.com/ |
 |	 |	10	|	user10	|
 |		|	11	|	user11	|
 |	 |	12	|	user12	|
