@@ -8,7 +8,7 @@
 
 | Student Name | Password | OpenShift Link | 
 |------------ | ---------------| ---------------|
-|	Arjun	 |	1	|	user1	|
+|	Arjun	 |	1	|	https://showroom-showroom-9mg8g.apps.cluster-9mg8g.9mg8g.sandbox1588.opentlc.com/	|
 |	Blake	|	2	|	user2	|
 |	Colton	|	3	|	user3	|
 |	Jay |	4	|	user4	|
